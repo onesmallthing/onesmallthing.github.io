@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://technoteshub.github.io/
+Sitemap: https://technoteshub.github.io//sitemap.xml

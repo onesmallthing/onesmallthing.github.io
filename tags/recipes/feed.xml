@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>One Small Thing</title>
+      <link>https://technoteshub.github.io//blog</link>
+      <description>A personal blog with a blend of topics, including technology, cooking, books, and more</description>
+      <language>en-us</language>
+      <managingEditor>undefined (Fany Carolina Vargas)</managingEditor>
+      <webMaster>undefined (Fany Carolina Vargas)</webMaster>
+      <lastBuildDate>Sat, 06 Jan 2024 06:00:00 GMT</lastBuildDate>
+      <atom:link href="https://technoteshub.github.io//tags/recipes/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://technoteshub.github.io//blog/2024/easy-lentil-egg-soup-recipe</guid>
+    <title>Easy Vegetarian Lentil and Boiled Egg Soup Recipe</title>
+    <link>https://technoteshub.github.io//blog/2024/easy-lentil-egg-soup-recipe</link>
+    <description>Simple vegetarian lentil soup recipe with a few ingredients</description>
+    <pubDate>Sat, 06 Jan 2024 06:00:00 GMT</pubDate>
+    <author>undefined (Fany Carolina Vargas)</author>
+    <category>minimialist-cooking</category><category>recipes</category>
+  </item>
+
+    </channel>
+  </rss>
