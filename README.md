@@ -1,2 +1,2 @@
 # onesmallthing.github.io
-A personal blog with notes about technology, social, and ethical discussions
+A personal blog with a blend of topics, including technology, cooking, books, and more
