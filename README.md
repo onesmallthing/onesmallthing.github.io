@@ -1,2 +1,4 @@
 # onesmallthing.github.io
 A personal blog with a blend of topics, including technology, cooking, books, and more
+
+URL: https://onesmallthing.github.io/
